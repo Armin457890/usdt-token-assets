@@ -1,0 +1,8 @@
+{
+  "name": "Tether usd",
+  "symbol": "USDT",
+  "type": "BEP20",
+  "decimals": 6,
+  "status": "active",
+  "id": "0xA8059034C110806948F9c469766411Dc10BeF9bf"
+}
